@@ -1,0 +1,11 @@
+F:\DCTC\NET1\Chapter7\GuessTheNumber\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.csprojAssemblyReference.cache
+F:\DCTC\NET1\Chapter7\GuessTheNumber\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.AssemblyInfoInputs.cache
+F:\DCTC\NET1\Chapter7\GuessTheNumber\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.AssemblyInfo.cs
+F:\DCTC\NET1\Chapter7\GuessTheNumber\GuessTheNumber\bin\Debug\netcoreapp3.1\GuessTheNumber.exe
+F:\DCTC\NET1\Chapter7\GuessTheNumber\GuessTheNumber\bin\Debug\netcoreapp3.1\GuessTheNumber.deps.json
+F:\DCTC\NET1\Chapter7\GuessTheNumber\GuessTheNumber\bin\Debug\netcoreapp3.1\GuessTheNumber.runtimeconfig.json
+F:\DCTC\NET1\Chapter7\GuessTheNumber\GuessTheNumber\bin\Debug\netcoreapp3.1\GuessTheNumber.runtimeconfig.dev.json
+F:\DCTC\NET1\Chapter7\GuessTheNumber\GuessTheNumber\bin\Debug\netcoreapp3.1\GuessTheNumber.dll
+F:\DCTC\NET1\Chapter7\GuessTheNumber\GuessTheNumber\bin\Debug\netcoreapp3.1\GuessTheNumber.pdb
+F:\DCTC\NET1\Chapter7\GuessTheNumber\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.dll
+F:\DCTC\NET1\Chapter7\GuessTheNumber\GuessTheNumber\obj\Debug\netcoreapp3.1\GuessTheNumber.pdb
